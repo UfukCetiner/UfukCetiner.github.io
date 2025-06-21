@@ -2,12 +2,17 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [Design & Prototyping, Entreprenuership, Coding]
 horizontal: false
 ---
+Welcome to my project archive — a collection of things I’ve designed, tested, broken, fixed, and learned from.
+
+Some of these projects were successful, some… less so (looking at you, turbine blade 👀). But every single one taught me something valuable — whether it was about aero, fabrication, or just knowing when to step back and rethink.
+
+I'm sharing both the wins and the “hmm, maybe next time” moments here, because I believe good engineering is iterative, honest, and sometimes a little messy. That’s the fun part.
 
 <!-- pages/projects.md -->
 <div class="projects">
