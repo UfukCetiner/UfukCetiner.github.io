@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Design & Prototyping, Entreprenuership, Coding]
+display_categories: [Design & Prototyping, Entrepreneurship, Coding]
 horizontal: false
 ---
 Welcome to my project archive — a collection of things I’ve designed, tested, broken, fixed, and learned from.
@@ -13,6 +13,8 @@ Welcome to my project archive — a collection of things I’ve designed, tested
 Some of these projects were successful, some… less so (looking at you, turbine blade 👀). But every single one taught me something valuable — whether it was about aero, fabrication, or just knowing when to step back and rethink.
 
 I'm sharing both the wins and the “hmm, maybe next time” moments here, because I believe good engineering is iterative, honest, and sometimes a little messy. That’s the fun part.
+
+I'm currently updating my projects here— you're welcome to revisit anytime for the latest additions.
 
 <!-- pages/projects.md -->
 <div class="projects">

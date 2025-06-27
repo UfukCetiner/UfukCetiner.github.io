@@ -6,7 +6,7 @@
     "email": "cetinerufuk1@gmail.com",
     "phone": "+44 7463 547068",
     "url": "https://ufukcetiner.github.io/",
-    "summary": "I’m an Aerospace Engineering student at Imperial College London with a passion for hands-on design and creative problem-solving. Whether it’s designing systems that fly, float, or fold, I enjoy turning ideas into functional prototypes — usually with the help of my trusty 3D printer."
+    "summary": "I’m an Aeronautical Engineering student at Imperial College London with a passion for hands-on design and creative problem-solving. Whether it’s designing systems that fly, float, or fold, I enjoy turning ideas into functional prototypes."
 
   },
   "education": [
@@ -31,12 +31,12 @@
 
     "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Small Scale Wind Turbine Blade Design",
+      "summary": "Designed, analyzed, and manufactured small-scale wind turbine blades by integrating aerodynamic theory with structural optimization. The project involved iterative testing, simulation, and hands-on prototyping.",
+      "highlights": ["Aerodynamic Optimization", "Prototyping","Structural Failure Analysis"],
+      "startDate": "2025-05-13",
+      "endDate": "2025-06-20",
+      "url": "https://ufukcetiner.github.io/projects/WindTurbine/"
     }
   ],
 
