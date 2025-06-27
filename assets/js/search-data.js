@@ -30,13 +30,6 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/publications/";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
             },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -78,19 +71,19 @@ ninja.data = [{
             },},{id: "news-welcome-to-my-portfolio-here-you-can-find-information-about-me-and-my-projects-feel-free-to-check-them-out-and-contact-me-if-you-have-any-questions",
           title: 'Welcome to my portfolio! Here you can find information about me and my...',
           description: "",
-          section: "News",},{id: "projects-small-scale-wind-turbine-blade-design",
-          title: 'Small Scale Wind Turbine Blade Design',
-          description: "Imperial College, Year 1, Summer Term Project, June 2025",
+          section: "News",},{id: "projects-formula-student-electronics-dashboard-amp-enclosure",
+          title: 'Formula Student Electronics Dashboard &amp;amp; Enclosure',
+          description: "Imperial College, Year 1",
           section: "Projects",handler: () => {
               window.location.href = "/projects/FormulaStudent/";
-            },},{id: "projects-small-scale-wind-turbine-blade-design",
-          title: 'Small Scale Wind Turbine Blade Design',
-          description: "Imperial College, Year 1, Summer Term Project, June 2025",
+            },},{id: "projects-on-demand-3d-printing-service-startup-geometric-fusion",
+          title: 'On-Demand 3D Printing Service Startup (Geometric Fusion)',
+          description: "Istanbul, Turkey, October 2023 - June 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/GeometricFusion/";
-            },},{id: "projects-small-scale-wind-turbine-blade-design",
-          title: 'Small Scale Wind Turbine Blade Design',
-          description: "Imperial College, Year 1, Summer Term Project, June 2025",
+            },},{id: "projects-underwater-rov-design-mate-competiton",
+          title: 'Underwater ROV Design (MATE Competiton)',
+          description: "Robert College, October 2023 - June 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/UnderwaterRobotics/";
             },},{id: "projects-small-scale-wind-turbine-blade-design",
