@@ -5,7 +5,7 @@
     "image": "",
     "email": "cetinerufuk1@gmail.com",
     "phone": "+44 7463 547068",
-    "url": "https://ufukcetiner.github.io/",
+    "LinkedIn": "https://www.linkedin.com/in/ufuk-cetiner/",
     "summary": "I’m an Aeronautical Engineering student at Imperial College London with a passion for hands-on design and creative problem-solving. Whether it’s designing systems that fly, float, or fold, I enjoy turning ideas into functional prototypes."
 
   },
@@ -37,36 +37,100 @@
       "startDate": "2025-05-13",
       "endDate": "2025-06-20",
       "url": "https://ufukcetiner.github.io/projects/WindTurbine/"
+    },
+    {
+      "name": "Formula Student Dashboard & Electronics Enclosure Design",
+      "summary": "Designed and prototyped multiple solutions working with other systems. Used manufacturing methods such as waterjet cutting and CNC routing.",
+      "highlights": ["Prototyping", "Manufacturing Techniques","Collaboration"],
+      "startDate": "2024-10-10",
+      "endDate": "2025-07-21",
+      "url": "https://ufukcetiner.github.io/projects/FormulaStudent/"
+    },
+    {
+      "name": "Underwater Robotics MATE Competiton",
+      "summary": "Lead a team of six students in designing a remotely operated underwater vehicle (ROV) capable of advanced tasks set by the MATE compatiton. Oversaw full project lifecycle: chasis, arm, electronics design; hydrodynamic simulations and underwater testing.",
+      "highlights": ["Prototyping", "CAD Design","Team Leadership","Iterative Design"],
+      "startDate": "2023-10-10",
+      "endDate": "2024-06-21",
+      "url": "https://ufukcetiner.github.io/projects/UnderwaterRobotics/"
+    },
+    {
+      "name": "On-Demand 3D Printing Serice (GeometricFusion)",
+      "summary": "Founded an on-demand 3D printing servive based in Istanbul. Lead the operation for a year and had over 50+ completed sales.",
+      "highlights": ["3D Printing", "Sales & Fulfillment","Entrepreneurship"],
+      "startDate": "2023-09-01",
+      "endDate": "2024-06-21",
+      "url": "https://ufukcetiner.github.io/projects/GeometricFusion/"
+    },
+    {
+      "name": "Underwater Robotics TEKNOFEST Competiton",
+      "summary": "Lead a team of 12 students in designing a underwater vehicle capable of basic movement and manipulation tasks. Oversaw the full project cycle.",
+      "highlights": ["Prototyping", "Iterative Design","Team Leadership","Systems Design"],
+      "startDate": "2022-09-01",
+      "endDate": "2023-06-21",
+      "url": "https://ufukcetiner.github.io/projects/"
+    },
+    {
+      "name": "Low Cost PET Bottle Recycler",
+      "summary": "Led a student initiative to design and prototype a low-cost device that transforms recycled PET bottles into 3D printer filament.",
+      "highlights": ["Sustainable Engineering", "Prototyping","Mechanical Design"],
+      "startDate": "2022-10-10",
+      "endDate": "2023-06-21"
     }
   ],
 
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "How a Rotating Orbital Tether Advances Space Travel",
+      "publisher": "International Journal of High School Research",
+      "releaseDate": "2022-08-01",
+      "url": "https://doi.org/10.36838/v4i4.20",
+      "summary": "Explored how momentum-exchanging orbital tethers (Skyhooks) could revolutionize access to low-Earth orbit by reducing propellant needs. Compared the design and economics of such systems to conventional rocket launches, and proposed mechanisms for docking and re-boosting."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Computer Aided Design (CAD)",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "SOLIDWORKS",
+        "Fuison 360",
+        "CATIA"
+      ]
+    },
+    {
+      "name": "Finite Elements Analysis (FEA)",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Abaqus"
+      ]
+    },
+    {
+      "name": "Computational Fluid Dynamics (CFD) ",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Star CCM+",
+        "ANSYS"
+      ]
+    },
+    {
+      "name": "Rapid Prototyping",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "3D Printing",
+        "Laser Cutting",
+        "CNC Router",
+        "Waterjet Machining"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Turkish",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -75,32 +139,5 @@
       "fluency": "Fluent",
       "icon": ""
     }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
   ]
-
 }

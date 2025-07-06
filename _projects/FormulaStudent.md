@@ -3,7 +3,7 @@ layout: page
 title: Formula Student Electronics Dashboard & Enclosure
 description: Imperial College, Year 1
 img: assets/img/dash_elec.jpg
-importance: 3
+importance: 2
 category: Design & Prototyping
 related_publications: false
 ---

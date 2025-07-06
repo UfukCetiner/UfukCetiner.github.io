@@ -74,7 +74,7 @@ In hindsight, we underestimated the critical role of starting torque in small-sc
 
 Instead, we learned (the hard way) that startup dynamics deserve just as much attention as peak efficiency in practical blade design.
 
-## 🧠 Lessons Learned
+## Lessons Learned
 
 - **Don't trust simulation results blindly** — validate them using experimental data.
 - **XFOIL can be misleading** at low Reynolds numbers.
